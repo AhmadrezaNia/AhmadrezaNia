@@ -1,6 +1,6 @@
 # Ahmadreza Nia
 
-My Webpage: **[Ahmadreza Nia (Aaron) — portfolio, research & publications](https://ahmadrezania.github.io/)**
+My Webpage: **[Ahmadreza Nia (Aaron) — portfolio](https://ahmadrezania.github.io/)**
 
 I'm a passionate Ph.D. candidate at UIUC, co-advised by Prof. Klara Nahrstedt from the Computer Science Department and Prof. Chenhui Shao from the Mechanical Science and Engineering Department. My research focuses on the innovative integration of manufacturing, statistics, and artificial intelligence. Currently, I am exploring the applications of Large Language and Vision Models in intelligent manufacturing and industrial IoT.
 
